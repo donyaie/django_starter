@@ -8,3 +8,4 @@ media
 django.log
 *.DS_Store
 .DS_Store
+.vscode
