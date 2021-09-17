@@ -1,0 +1,10 @@
+venv
+*.pyc
+staticfiles
+db.sqlite3
+dump.rdb
+media
+.env
+django.log
+*.DS_Store
+.DS_Store
